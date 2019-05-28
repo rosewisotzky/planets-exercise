@@ -1,0 +1,11 @@
+/Users/rosewisotzky/workspace/csharp/book-one/planets-spaceships/bin/Debug/netcoreapp2.2/planets-spaceships.deps.json
+/Users/rosewisotzky/workspace/csharp/book-one/planets-spaceships/bin/Debug/netcoreapp2.2/planets-spaceships.runtimeconfig.json
+/Users/rosewisotzky/workspace/csharp/book-one/planets-spaceships/bin/Debug/netcoreapp2.2/planets-spaceships.runtimeconfig.dev.json
+/Users/rosewisotzky/workspace/csharp/book-one/planets-spaceships/bin/Debug/netcoreapp2.2/planets-spaceships.dll
+/Users/rosewisotzky/workspace/csharp/book-one/planets-spaceships/bin/Debug/netcoreapp2.2/planets-spaceships.pdb
+/Users/rosewisotzky/workspace/csharp/book-one/planets-spaceships/obj/Debug/netcoreapp2.2/planets-spaceships.csprojAssemblyReference.cache
+/Users/rosewisotzky/workspace/csharp/book-one/planets-spaceships/obj/Debug/netcoreapp2.2/planets-spaceships.csproj.CoreCompileInputs.cache
+/Users/rosewisotzky/workspace/csharp/book-one/planets-spaceships/obj/Debug/netcoreapp2.2/planets-spaceships.AssemblyInfoInputs.cache
+/Users/rosewisotzky/workspace/csharp/book-one/planets-spaceships/obj/Debug/netcoreapp2.2/planets-spaceships.AssemblyInfo.cs
+/Users/rosewisotzky/workspace/csharp/book-one/planets-spaceships/obj/Debug/netcoreapp2.2/planets-spaceships.dll
+/Users/rosewisotzky/workspace/csharp/book-one/planets-spaceships/obj/Debug/netcoreapp2.2/planets-spaceships.pdb
