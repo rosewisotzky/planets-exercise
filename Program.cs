@@ -8,7 +8,7 @@ namespace planets_spaceships
         static void Main(string[] args)
         {
             Console.WriteLine("Wow, a new week, pal! Look at you learning all the learnin'");
-            // Here's our new list. We're naming it on the left, so this list is called planetList. Over on the right, we're initializing our list with the empty parens and in our curly bracket we are declaring what exists in our list currently.
+            // Here's our new list. We're naming it on the left, so this list is called planetList. Over on the right, we are creating a new list and initializing it by declaring what is inside of that list in our curly brackets.
             List<string> planetList = new List<string>() { "Mercury", "Mars" };
 
             // .Add is just slappin' another planet on our list.
